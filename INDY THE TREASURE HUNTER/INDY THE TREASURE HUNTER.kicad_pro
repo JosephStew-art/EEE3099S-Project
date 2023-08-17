@@ -334,6 +334,14 @@
     [
       "a6eb79ec-4315-4230-a936-5681391aafb7",
       "MICROCONTROLLER"
+    ],
+    [
+      "0010784b-0c24-451a-8397-89ffe2babef6",
+      "MOTOR"
+    ],
+    [
+      "bad4a392-93a8-4f4d-8437-5e4356974a3b",
+      "POWER"
     ]
   ],
   "text_variables": {}

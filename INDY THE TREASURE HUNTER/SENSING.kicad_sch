@@ -74,12 +74,12 @@
   )
 
 
-  (rectangle (start 59.69 44.45) (end 105.41 82.55)
+  (rectangle (start 83.82 40.64) (end 129.54 78.74)
     (stroke (width 0) (type default))
     (fill (type none))
     (uuid 163d17d4-41bc-4ce9-a91c-517416cd6707)
   )
-  (rectangle (start 57.15 114.3) (end 106.68 160.02)
+  (rectangle (start 81.28 102.87) (end 130.81 148.59)
     (stroke (width 0) (type default))
     (fill (type none))
     (uuid 2a6a67be-9a46-4e9a-8814-4ee420d97645)
@@ -90,7 +90,7 @@
     (uuid 66f26d12-6f8d-4411-8e42-e9ea6280d2f5)
   )
 
-  (text "LINE SENSORS\n" (at 74.93 43.18 0)
+  (text "LINE SENSORS\n" (at 99.06 39.37 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 020f172d-6c07-4890-85cd-83388086db90)
   )
@@ -98,7 +98,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6090bf16-cfa1-4260-b247-88f0fc2fd1d3)
   )
-  (text "ENCODER\n" (at 76.2 113.03 0)
+  (text "ENCODER\n" (at 101.6 100.33 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8aee547d-d455-4a9f-bafa-67cc62f69e01)
   )
