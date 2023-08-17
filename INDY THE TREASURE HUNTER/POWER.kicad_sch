@@ -7,4 +7,13 @@
   (lib_symbols
   )
 
+
+  (hierarchical_label "3V3IN" (shape output) (at 21.59 22.86 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 52c6ec42-89e6-410c-bc98-0ad9352fb3e8)
+  )
+  (hierarchical_label "5V" (shape output) (at 21.59 20.32 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid dd556a1e-5311-42e8-a9a6-1bbfbebc0901)
+  )
 )
