@@ -256,10 +256,10 @@
     (property "MANUFACTURER" "Osepp" (at 195.58 52.07 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (pin "1" (uuid 82e369cd-6f0a-4685-9045-7b6d1fc0ea97))
-    (pin "2" (uuid 4e4f382c-c25d-4599-8192-4f7d6ad48c95))
-    (pin "3" (uuid 8e88bcf8-7abd-407c-b554-692e91190ac1))
-    (pin "4" (uuid a03d11bb-5363-4377-925c-de5dcf062aa7))
+    (pin "1" (uuid ffae006b-e543-47e9-bab8-5260a87452f0))
+    (pin "2" (uuid 187bd7c5-066b-430c-8efd-8d85289b28d5))
+    (pin "3" (uuid b03fd829-25e7-42d2-9dd9-c2d7d0113374))
+    (pin "4" (uuid f206b840-325e-4b9a-8191-54da96fd16f8))
     (instances
       (project "INDY THE TREASURE HUNTER"
         (path "/b3b90d4c-73f4-4a78-9e6e-dd19a1913646"
