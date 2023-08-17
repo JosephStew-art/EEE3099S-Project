@@ -311,6 +311,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 020f172d-6c07-4890-85cd-83388086db90)
   )
+  (text "No instruction given on how to use this\nResearch later, I suppose"
+    (at 85.725 108.585 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 57f18d9e-048d-4a45-85cf-7cb257dffe9d)
+  )
   (text "ULTRASONIC SENSOR\n" (at 180.34 39.37 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6090bf16-cfa1-4260-b247-88f0fc2fd1d3)

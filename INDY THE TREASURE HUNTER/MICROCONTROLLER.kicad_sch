@@ -506,10 +506,21 @@
     (uuid fc484b27-0bb0-44e1-bc08-66184b58b61d)
   )
 
+  (rectangle (start 83.185 27.94) (end 142.875 124.46)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (uuid 1b62f04d-b7da-42a9-b61b-bd275f3e9406)
+  )
+
   (text "The datasheet specifies that some pins here have more\nfunctions than just GPIO. Lets try fill up the ONLY GPIO\npins first, before colonizing other pins"
     (at 210.82 39.37 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 02c1b1c4-010e-47b4-884d-31944304cf7d)
+  )
+  (text "No idea what these are, I might be missing something? OH literally \nas Im typing this I see theyre the logic level shifters\n\nUm... we can decide to use headers later this isnt a final design"
+    (at 78.74 26.035 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid cdb5f354-c3ce-4312-aa7f-fd44d642f101)
   )
   (text "DO NOT CONNECT A 5V SIGNAL TO THIS BOARD OR IT DIES"
     (at 151.13 25.4 0)
