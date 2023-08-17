@@ -115,7 +115,7 @@
   (symbol (lib_id "Motor:Motor_DC") (at 172.72 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 50ccd67f-f149-444d-beba-0405e374a118)
-    (property "Reference" "M?" (at 177.8 75.565 0)
+    (property "Reference" "M1" (at 177.8 75.565 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Motor_DC" (at 177.8 78.105 0)
@@ -132,7 +132,7 @@
     (instances
       (project "INDY THE TREASURE HUNTER"
         (path "/b3b90d4c-73f4-4a78-9e6e-dd19a1913646/0010784b-0c24-451a-8397-89ffe2babef6"
-          (reference "M?") (unit 1)
+          (reference "M1") (unit 1)
         )
       )
     )
