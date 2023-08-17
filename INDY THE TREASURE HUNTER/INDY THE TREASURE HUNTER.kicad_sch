@@ -8,6 +8,15 @@
   )
 
 
+  (wire (pts (xy 189.23 67.31) (xy 194.31 104.14))
+    (stroke (width 0) (type default))
+    (uuid 28348849-5975-4b13-8295-2d18618dec5d)
+  )
+
+  (hierarchical_label "3V3" (shape input) (at 189.23 67.31 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 091b0a15-28ff-41a6-86e0-905328852328)
+  )
   (hierarchical_label "3V3" (shape input) (at 194.31 104.14 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 729ec46f-99ba-4634-8876-33d20c15b454)
@@ -64,14 +73,14 @@
     )
   )
 
-  (sheet (at 132.08 97.79) (size 62.23 39.37) (fields_autoplaced)
+  (sheet (at 132.08 102.87) (size 62.23 39.37) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid bad4a392-93a8-4f4d-8437-5e4356974a3b)
-    (property "Sheetname" "POWER" (at 132.08 97.0784 0)
+    (property "Sheetname" "POWER" (at 132.08 102.1584 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "POWER.kicad_sch" (at 132.08 137.7446 0)
+    (property "Sheetfile" "POWER.kicad_sch" (at 132.08 142.8246 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
