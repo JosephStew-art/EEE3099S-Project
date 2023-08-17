@@ -1,0 +1,2 @@
+SCHEMATIC:
+1. Try to stick with this naming convention for logic level lines: NAME_OF_LINE_(voltage value) (eg: ULTRA_TRIG_3V3) so we can track the voltages of the logic levels
