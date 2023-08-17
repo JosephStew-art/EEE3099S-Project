@@ -92,7 +92,7 @@
   )
 
 
-  (rectangle (start 74.93 60.96) (end 105.41 90.17)
+  (rectangle (start 48.26 60.96) (end 114.3 125.73)
     (stroke (width 0) (type default))
     (fill (type none))
     (uuid 0dfec3a0-1a04-4e47-99f9-a6082ca97a11)
@@ -103,7 +103,7 @@
     (uuid b1b147ce-9a8b-4344-a922-40b6a5f9acfc)
   )
 
-  (text "Driver\n" (at 87.63 59.69 0)
+  (text "Driver\n" (at 77.47 63.5 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bbcfeba3-3ec5-48b4-a864-3467758d737a)
   )
