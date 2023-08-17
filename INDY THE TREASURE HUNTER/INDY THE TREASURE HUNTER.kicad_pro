@@ -330,6 +330,10 @@
     [
       "10de68d7-f5d9-4831-9d1b-771d16ee0d86",
       "SENSING"
+    ],
+    [
+      "a6eb79ec-4315-4230-a936-5681391aafb7",
+      "MICROCONTROLLER"
     ]
   ],
   "text_variables": {}
