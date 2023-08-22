@@ -66,7 +66,7 @@ We will implement our robot using the following steps:
 
 6. Test the robot in controlled environments, making necessary adjustments to the code and hardware.
 
-##Testing and Results
+## Testing and Results
 Our testing phase will include:
 
 1. Line Following Test: Assess the robot's ability to accurately follow a designated line on various surfaces.
