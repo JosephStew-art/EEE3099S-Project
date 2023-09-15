@@ -1,0 +1,5 @@
+#ifndef RTW_HEADER_LINEFOLLOW_90_DATA_READING_capi_h_
+#define RTW_HEADER_LINEFOLLOW_90_DATA_READING_capi_h_
+#include "LINEFOLLOW_90_DATA_READING.h"
+extern void LINEFOLLOW_90_DATA_READING_InitializeDataMapInfo ( void ) ;
+#endif

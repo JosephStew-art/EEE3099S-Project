@@ -1,0 +1,63 @@
+%implements "chartSource" "C"
+%function ChartConfig(block, system) void
+  %createrecord chartConfiguration { ...
+          executeAtInitialization  0 ...
+  }
+  %return chartConfiguration
+%endfunction
+%function ChartDataMap(block, system) void
+  %createrecord ChartDataElements {\
+    NumChartData   6 \
+    ChartDataDefaults {\
+      RecordType   "ChartData"\
+      Dimensions   []\
+      IsTestPoint  0\
+    }\
+    ChartData {\
+      Name         "w_ref"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "w_ref"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "distRef"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "distRef"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "sfEvent"\
+      Description  "ActiveChartEvent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_active_c3_LINEFOLLOW_90_DATA_READING"\
+      Description  "StateIsActive"\
+      SFName       "is_active_c3_LINEFOLLOW_90_DATA_READING"\
+      Path         "is_active_c3_LINEFOLLOW_90_DATA_READING"\
+      SrcLocation  ""\
+      IsTestPoint  1\
+    }\
+    ChartData {\
+      Name         "is_c3_LINEFOLLOW_90_DATA_READING"\
+      Description  "StateActiveChild"\
+      SFName       "is_c3_LINEFOLLOW_90_DATA_READING"\
+      Path         "is_c3_LINEFOLLOW_90_DATA_READING"\
+      SrcLocation  ""\
+      IsTestPoint  1\
+    }\
+    ChartData {\
+      Name         "is_LINE_FOLLOW"\
+      Description  "StateActiveChild"\
+      SFName       "is_LINE_FOLLOW"\
+      Path         "LINE_FOLLOW.is_LINE_FOLLOW"\
+      SrcLocation  ""\
+      IsTestPoint  1\
+    }\
+  }
+  %return ChartDataElements
+%endfunction
