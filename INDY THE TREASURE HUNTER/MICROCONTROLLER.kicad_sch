@@ -303,7 +303,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 679f48d6-eb60-4f19-adab-10d2d7dcc51b)
   )
-  (hierarchical_label "3V3IN" (shape input) (at 198.12 34.29 0) (fields_autoplaced)
+  (hierarchical_label "5V" (shape input) (at 198.12 34.29 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 830fd007-87d8-4079-8614-3734c1860acd)
   )
